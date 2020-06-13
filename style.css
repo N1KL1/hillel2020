@@ -1,0 +1,34 @@
+.h1{
+    color: rgb(27, 204, 154);
+    font-family: 'Aclonica', sans-serif;
+
+}
+.h2{
+    color: rgba(237, 114, 184, 0.54);
+    font-family: 'Cormorant Infant', serif;
+
+}
+.ul{
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'Cormorant Infant', serif;
+}
+.ol{
+    font-size: 16px;
+    line-height: 22px;
+    font-family: 'Cormorant Infant', serif;
+}
+.img{
+    text-align: center;
+}
+.p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: #3452eb;
+}
+.li{
+    font-family: 'Oswald', sans-serif;
+}
+.le{
+    font-family: 'Oswald', sans-serif;
+}
